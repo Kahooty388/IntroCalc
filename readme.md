@@ -123,3 +123,9 @@ O IntroCalc começou como uma ideia simples de um roguelike de calculadora e foi
 Durante o desenvolvimento, aprendi muito sobre Pygame e POO, o que achei bem divertido e gostaria de fazer denovo.
 
 Apesar das dificuldades e dos bugs encontrados durante o processo, o desenvolvimento foi uma experiência positiva e divertida, que me ensinou bastante sobre python e pygame, já que mal havia programado em python antes, apenas em C.
+
+##PS
+
+Eu sei que esse jogo tem muita coisa em parecido com o calculate it que está em early acess na steam, mas como era para um projeto da faculdade, e descobri da existencia do calculate it depois que comecei, decidi fazer esse jogo mesmo.
+
+Credito ao Louis F e ao LocalThunk pela minha música de gameplay (Balatro Main Theme) e pela Nintendo pelo SFX de game over (Vem de Breath of the Wild)
