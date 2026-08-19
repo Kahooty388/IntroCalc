@@ -33,7 +33,12 @@ class Calc:
         flag_int = True
 
         for button in self.buttons:
-            button.price = 2
+            if button.label == '+':
+                button.price = 4
+            elif button.label == '-':
+                button.price = 3
+            else:
+                button.price = 2
 
         if roundnum < 3:
             min_target = 0
