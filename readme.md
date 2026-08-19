@@ -21,7 +21,7 @@ A dificuldade vai aumentando com as rodadas. Nas primeiras rodadas, os alvos sã
 
 Depois de vencer uma rodada, o jogador irá a loja.
 
-Na loja, os botões da calculadora podem ser comprados para aumentar a quantidade de usos disponíveis para eles. Cada botão tem preço inicial de R$2 (fora + e 1 que começam com 3 e 4 respectivamente)  e sobe e, R$1 cada vez que são comprados, isso para incentivar variedade de botoes comprados.
+Na loja, os botões da calculadora podem ser comprados para aumentar a quantidade de usos disponíveis para eles. Cada botão tem preço inicial de R$2 (fora + e - que começam com 4 e 3 respectivamente)  e sobe e, R$1 cada vez que são comprados, isso para incentivar variedade de botoes comprados.
 
 ## CONTROLES
 
